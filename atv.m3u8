@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 logo="" group-title="" ,CCTV1
-http://113.64.147.61:808/hls/514/index.m3u8
+http://nsszds.f3322.net:808/hls/138/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CCTV2
 http://nsszds.f3322.net:808/hls/2/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CCTV3综艺
