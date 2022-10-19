@@ -2,6 +2,8 @@
 
 #EXTINF:-1 logo="" group-title="" ,CCTV1
 rtsp://183.59.145.212:554/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EUwOl-Gl8Z1MFFJlY1q_RCg%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
+#EXTINF:-1 logo="" group-title="" ,CCTV2
+http://nsszds.f3322.net:808/hls/2/index.m3u8
 #EXTINF:-1 logo="" group-title="" ,CCTV3综艺
 rtsp://183.59.180.37:554/PLTV/88888905/224/3221229838/10000100000000060000000009924454_0.smil?zoneoffset=480&icpid=1111116&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=%7E%7EV2.0%7EgvH63pQiXJKEZibMVS_W8g%7EJ3gS9YToknmjfQZedpYa3OsrE4kLrNtf-netp2UkspYUIlmz9LDm0sPe6KDxcMKnThY41s67Gsfd5PtG37Y_7h2YX6XyChgUU67PSsd_dks~ExtInfoWNHSPSTb+3AG0FnUkYLPMw=-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2CEND&tenantId=8601
 #EXTINF:-1 logo="" group-title="" ,CCTV4国际
